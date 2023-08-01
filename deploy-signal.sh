@@ -2,7 +2,8 @@
 # 
 # Generated in-part by ChatGPT 3.5. Proof-read, tested and troubleshooted by Jeff Kleinhenz
 #
-#
+# Installs Signal to the currentConsoleUser's "~/Applications" Folder. and adds the icon to the user's Dock. 
+# Tested with Monterey and Ventura
 
 # Enable xtrace mode to show all output as it runs. Uncomment to get full output.
 # set -x
